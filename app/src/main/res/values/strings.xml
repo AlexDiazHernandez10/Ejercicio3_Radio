@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio3_Radio</string>
+    <string name="titulo_ventana">uso de radio button</string>
+    <string name="txt_hint">Escribe un numero</string>
+    <string name="txt_resultado">El resultado es:</string>
+    <string name="Suma">sumar</string>
+    <string name="Resta">restar</string>
+    <string name="Calcular">calcular</string>
+    <string name="Dividir">dividir</string>
+    <string name="Multiplicar">multiplicar</string>
+</resources>
